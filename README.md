@@ -1,6 +1,6 @@
 # RecipeApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+Project built as part of Maximilian Schwarzmüller's Angular 9 course.
 
 ## Development server
 
